@@ -21,6 +21,8 @@ import com.itextpdf.text.pdf.PdfPTable;
 import com.itextpdf.text.pdf.PdfWriter;
 
 
+
+
 public class format {
     private static String FILE = "C:\\Users\\arred\\Desktop\\PDF\\InputPDF.pdf";
     private static Font catFont = new Font(Font.FontFamily.TIMES_ROMAN, 18,
